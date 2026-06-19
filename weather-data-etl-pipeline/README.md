@@ -68,16 +68,21 @@ The transformed dataset was stored as:
 
 ## Basic Analysis Performed
 
-- Compared temperatures across cities.
+The following analyses were conducted:
+
+- Calculated the average temperature across all cities.
 - Identified the city with the highest humidity.
 - Compared weather conditions across cities.
+- Identified the hottest city based on current temperature.
 
 ## Key Findings
 
-- Lagos recorded the highest temperature at **28.74°C**.
-- Lagos recorded the highest humidity level at **73%**.
-- London experienced **clear weather conditions**.
-- Lagos and New York experienced **cloudy weather conditions**.
+- The average temperature across the selected cities was **27.52°C**.
+- **London** recorded the highest temperature at **29.98°C**.
+- **Lagos** recorded the highest humidity level at **69%**.
+- All three cities experienced **cloudy weather conditions** during data collection.
+- The weather condition analysis showed **Clouds** as the most common weather condition across the selected cities.
+
 
 ## Visualizations Created
 
