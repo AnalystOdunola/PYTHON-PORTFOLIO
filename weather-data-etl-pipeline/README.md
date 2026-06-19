@@ -86,8 +86,9 @@ The following analyses were conducted:
 
 ## Visualizations Created
 
-- Temperature Comparison Chart
-- Humidity Comparison Chart
+- Temperature Comparison Across Cities
+- Humidity Comparison Across Cities
+- Weather Condition Distribution Chart
 
   ## Author
 
