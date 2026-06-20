@@ -89,6 +89,7 @@ The following analyses were conducted:
 - Weather Condition Distribution Chart
 
 -    ## Jupyter Notebook
+-    
    [Click here to view the full notebook](./Weather_epl.ipynb)
 
   ## Author
