@@ -77,12 +77,10 @@ The following analyses were conducted:
 
 ## Key Findings
 
-- The average temperature across the selected cities was **27.52°C**.
-- **London** recorded the highest temperature at **29.98°C**.
-- **Lagos** recorded the highest humidity level at **69%**.
-- All three cities experienced **cloudy weather conditions** during data collection.
-- The weather condition analysis showed **Clouds** as the most common weather condition across the selected cities.
-
+- The average temperature across the selected cities was **23.13°C**.
+- **Lagos** recorded the highest temperature at **27.62°C**.
+- **Lagos** recorded the highest humidity level at **78%**.
+- All three cities experienced different weather conditions; **Lagos was rainy, London was cloudy and New York was clear** during data collection.
 
 ## Visualizations Created
 
