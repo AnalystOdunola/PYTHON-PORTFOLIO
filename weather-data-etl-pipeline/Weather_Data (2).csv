@@ -1,0 +1,4 @@
+City,Temp_C,Humidity_%,Condition,Wind_m/s,Date,Time
+Lagos,27.62,78,Rain,2.64,26/06/20,9:29:09
+London,22.27,73,Clouds,0.89,26/06/20,9:29:09
+New York,19.5,60,Clear,8.49,26/06/20,9:29:09
