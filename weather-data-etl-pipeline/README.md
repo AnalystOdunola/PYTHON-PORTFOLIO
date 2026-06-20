@@ -88,6 +88,9 @@ The following analyses were conducted:
 - Humidity Comparison Across Cities
 - Weather Condition Distribution Chart
 
+-    ## Jupyter Notebook
+   [Click here to view the full notebook](./Weather_epl.ipynb)
+
   ## Author
 
   Odunola Adewale
